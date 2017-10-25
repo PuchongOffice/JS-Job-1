@@ -3,7 +3,7 @@ First job for Javascript API. Start this job after completion of the <a href="ht
 
 # Step 1
 
-Get your software ready from the previous job, which includes the <a href="https://github.com/maidsafe/safe_examples/releases" taget="_blank">Website Uploader</a> and the <a href="https://github.com/maidsafe/safe_browser/releases" target="_blank">Encrypted Browser</a>. 
+Get your Browser & Uploader software ready from the previous job, which **<a href="https://github.com/willgallo3/OfflineVersion">you can download here</a>** (or the <a href="https://github.com/willgallo3/OfflineVersionLinux">Linux verion here</a>).
 
 # Step 2
 
