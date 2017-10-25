@@ -7,7 +7,7 @@ Get your Browser & Uploader software ready from the previous job, which **<a hre
 
 # Step 2
 
-Login using the steps from <a href="https://github.com/PuchongOffice/TestAuth" target="_blank">the previous job</a>. 
+Login to the Browser program using the steps from <a href="https://github.com/PuchongOffice/TestAuth" target="_blank">the previous job</a>. 
 
 # Step 3
 
