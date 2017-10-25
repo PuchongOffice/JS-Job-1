@@ -3,7 +3,7 @@ First job for Javascript API. Start this job after completion of the <a href="ht
 
 # Step 1
 
-Get your Browser & Uploader software ready from the previous job, which **<a href="https://github.com/willgallo3/OfflineVersion">you can download here</a>** (or the <a href="https://github.com/willgallo3/OfflineVersionLinux">Linux verion here</a>).
+Get your Browser & Uploader software ready from the previous job, which **<a href="https://github.com/willgallo3/OfflineVersion">you can download here</a>** <br>(or the <a href="https://github.com/willgallo3/OfflineVersionLinux">Linux verion here</a>).
 
 # Step 2
 
